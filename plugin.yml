@@ -1,0 +1,10 @@
+name: PDGHBolao
+main: me.mchiappinam.pdghbolao.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+depends: [Vault,Legendchat]
+commands:
+   bolao:
+      description: Info.
+      usage: /<command>
